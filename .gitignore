@@ -1,0 +1,5 @@
+.env
+node_modules/
+development.log
+package-lock.json
+# **.log
